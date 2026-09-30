@@ -116,3 +116,12 @@ Este proyecto fue desarrollado como práctica de **desarrollo Frontend**, aplica
 
 Junior Frontend Developer
 Estudiante de Ingeniería de Sistemas
+# Curriculum Vitae
+
+## Proyecto
+
+Hoja de vida profesional desarrollada con HTML, CSS y JavaScript.
+
+### Project URL
+
+https://nayed08.github.io/CurriculumVitae.github.io/
